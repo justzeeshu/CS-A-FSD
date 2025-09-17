@@ -1,0 +1,10 @@
+console.log(a);
+console.table(a[-1]);
+let b;
+console.log(typeof b);
+a.push("b");
+console.log(a);
+a.pop('b');
+console.log(a);
+a.shift();
+console.log(a);
